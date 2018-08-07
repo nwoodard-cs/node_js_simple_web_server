@@ -13,7 +13,6 @@ let mimeTypes = {
 }
 
 const port = 8087
-const ip = '127.0.0.1'
 
 http.createServer( (req, res) => {
     const uri = url.parse(req.url).pathname
