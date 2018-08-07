@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/nwoodard-cs/node_js_simple_web_server/issues"
   },
-  "homepage": "https://github.com/nwoodard-cs/node_js_simple_web_server#readme"
+  "homepage": "https://github.com/nwoodard-cs/node_js_simple_web_server#readme",
+  "dependencies": {
+    "eslint": "5.3.0"
+  }
 }
