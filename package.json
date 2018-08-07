@@ -1,0 +1,20 @@
+{
+  "name": "simplewebserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nwoodard-cs/node_js_simple_web_server.git"
+  },
+  "author": "Nicole Woodard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nwoodard-cs/node_js_simple_web_server/issues"
+  },
+  "homepage": "https://github.com/nwoodard-cs/node_js_simple_web_server#readme"
+}
